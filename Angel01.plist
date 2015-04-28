@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://121.15.135.103:8080/download/ios/angel01.mobilecrm.ipa</string>
+					<string>http://crm01.angelgroup.com.cn:8080/Angel01WebService/download/ios/angel01.mobilecrm.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
